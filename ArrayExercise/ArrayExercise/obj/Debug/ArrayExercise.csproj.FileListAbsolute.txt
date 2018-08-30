@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\James\source\repos\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\James\source\repos\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\James\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csprojAssemblyReference.cache
+C:\Users\James\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\James\source\repos\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.pdb
