@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\TryCatchExercise\TryCatchExercise\obj\Debug\TryCatchExercise.csprojAssemblyReference.cache
+C:\Users\James\source\repos\TryCatchExercise\TryCatchExercise\obj\Debug\TryCatchExercise.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\TryCatchExercise\TryCatchExercise\bin\Debug\TryCatchExercise.exe.config
+C:\Users\James\source\repos\TryCatchExercise\TryCatchExercise\bin\Debug\TryCatchExercise.exe
+C:\Users\James\source\repos\TryCatchExercise\TryCatchExercise\bin\Debug\TryCatchExercise.pdb
+C:\Users\James\source\repos\TryCatchExercise\TryCatchExercise\obj\Debug\TryCatchExercise.exe
+C:\Users\James\source\repos\TryCatchExercise\TryCatchExercise\obj\Debug\TryCatchExercise.pdb
